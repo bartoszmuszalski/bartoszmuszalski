@@ -18,7 +18,7 @@ To stay efficient, I automate repetitive steps whenever possible, so I can focus
 
 | Year | Project | Stack | My role |
 |------|---------|-------|---------|
-| **2025** | **School Management System – Frontend** | React • TypeScript • Tailwind • REST (PHP + MariaDB) | Complete SPA UI/UX, routing, pop-ups, admin search, API integration |
+| **2025** | **School Management System – Frontend** | React • JavaScript • Tailwind • REST (PHP + MariaDB) |  UI/UX, routing, pop-ups, admin search, API integration |
 | **2024** | **Business Mixer – Responsive Event Site** | HTML & Tailwind • JavaScript • Render.com | Design, code, SEO optimisation, deployment, SSL |
 
 *(These two projects best showcase my current frontend skills — more on request.)*
