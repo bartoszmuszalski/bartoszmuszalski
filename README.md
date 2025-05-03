@@ -1,9 +1,8 @@
-# 👋 Hi, I'm **Bartosz Muszalski**
+# 👋 Hi, I'm Bartosz
 
-23-year-old **Web / Full-Stack Developer** from Poznań, Poland (born 02 Aug 2001).  
+23-year-old **Web / Full-Stack Developer** from Poland
 I love turning ideas into fast, production-ready web apps and automating everything around deployment.
 
-* 📧 bartoszmuszalski@wp.pl ☎ +48 730 332 909  
 * **GitHub:** [github.com/bartoszmuszalski](https://github.com/bartoszmuszalski) | **LinkedIn:** [linkedin.com/in/bartoszmuszalski](https://linkedin.com/in/bartoszmuszalski)
 
 ---
