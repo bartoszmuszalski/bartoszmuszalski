@@ -3,7 +3,6 @@
 23-year-old Full-Stack Developer with DevOps experience from Poland
 I love turning ideas into fast, production-ready web apps and automating everything around deployment.
 
-*   **Email:** bartoszmuszalski@wp.pl
 *   **GitHub:** [github.com/bartoszmuszalski](https://github.com/bartoszmuszalski)
 *   **LinkedIn:** [linkedin.com/in/bartoszmuszalski](https://linkedin.com/in/bartoszmuszalski)
 
