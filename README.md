@@ -3,7 +3,6 @@
 23-year-old Full-Stack Developer with DevOps experience from Poland
 I love turning ideas into fast, production-ready web apps and automating everything around deployment.
 
-*   **GitHub:** [github.com/bartoszmuszalski](https://github.com/bartoszmuszalski)
 *   **LinkedIn:** [linkedin.com/in/bartoszmuszalski](https://linkedin.com/in/bartoszmuszalski)
 
 ---
@@ -15,31 +14,28 @@ A passionate and ambitious Full-Stack Developer, focused on optimizing developme
 
 ## 🛠️ What I’ve built
 
-| Project             | Stack                                          | My role (Description)                                                                       |
-| :------------------ | :--------------------------------------------- | :------------------------------------------------------------------------------------------ |
-| **Business Mixer**  | HTML, Tailwind, JavaScript, Render.com         | Responsive platform for business networking.                                                |
-| **TradeBot Krypto** | JavaScript, WebSocket, AWS, CCXT               | Automatic cryptocurrency trading bot: fetching data via WebSocket, momentum strategy, AWS deployment. |
-| **Dziennik nauczycielski** | React, JavaScript                               | Web app for teachers to manage lesson logs and grade students.                              |
-
-*(These projects showcase my skills — more on request.)*
+| Project             | Stack                                          | My role (Description)                             |
+| :------------------ | :--------------------------------------------- | :------------------------------------------------ |
+| **Business Mixer**  | Node.js, JavaScript,                           | Responsive platform for business networking.      |
+| **TradeBot Crypto** | JavaScript, WebSocket, AWS, CCXT               | Automatic cryptocurrency trading bot              |
+| **School Management System** | React, JavaScript                     | Web app for teachers and grade students.          |
 
 ---
 
 ## 📚 My stack
 
--   **Frontend:** JavaScript (ES6+), TypeScript, React (hooks, routing, Tailwind), HTML & CSS (Flexbox/Grid)
--   **Backend:** Node.js, WebSocket, REST API, Postman, MySQL, PostgreSQL
+-   **Frontend:** JavaScript, TypeScript, React, HTML & CSS
+-   **Backend:** Node.js, WebSocket, REST API, Postman,
 -   **DevOps & Cloud:** Docker, Git, AWS (Basics), Cloud (Basics), WSL2, Linux / Ubuntu, CI/CD (Basics), Automation
 -   **Databases:** MySQL / PostgreSQL, basic SQL optimisation
--   **Tooling:** Git & GitHub, Postman, Chrome DevTools, SSH
--   **Extras:** Basic C++, Basic SQL, Bash, AI (advanced usage, testing, component generation), Automation, CCXT
+-   **Tooling:** Git & GitHub, Postman,
+-   **Extras:** Basic C++, Basic SQL, Bash, AI, Automation
 
 ---
 
 ## 🎓 Education
 -   **WSB University, Poznań** — B.Eng. Computer Science (2022 – 2025)
--   **Poznań University of Technology** — Telecommunications & IT (transfer, 2020 – 2022)
--   **High School** — (2017 – 2020)
+-   **Poznań University of Technology** — Telecommunications & IT (2020 – 2022)
 
 ---
 
@@ -50,5 +46,3 @@ A passionate and ambitious Full-Stack Developer, focused on optimizing developme
 -   Fast-learning builder who ships real products, not just code
 
 ---
-
-> If you need someone who can design, code and ship web apps end-to-end — I’m your guy.
