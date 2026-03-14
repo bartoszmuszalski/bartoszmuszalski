@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Bartosz 👋
 
-<!--
-**bartoszmuszalski/bartoszmuszalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer focused on building modern mobile applications using **Swift and Apple's ecosystem**.
 
-Here are some ideas to get you started:
+I have experience working on a **production-scale navigation application used by millions of drivers in Poland**, where I contributed to feature development, debugging and performance improvements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my skills in **SwiftUI, iOS architecture and full-stack development**.
+
+---
+
+## iOS Development
+
+- Swift
+- SwiftUI
+- UIKit
+- MVVM
+- Core Location
+- ARC memory management
+
+---
+
+## Debugging & Testing
+
+- Instruments
+- Memory Graph
+- LLDB
+- XCTest
+- XCUITest
+
+---
+
+## Backend & Web
+
+- REST APIs
+- SQL
+- Express.js
+- TypeScript
+- React
+
+---
+
+## Tools
+
+- Xcode
+- Git
+- Jira
+- Agile / Scrum
+- Code Review
+
+---
+
+## Selected Work
+
+### Business Mixer – Networking Application
+
+Application created for the Eastern Greater Poland Chamber of Commerce.
+
+- Designed a matchmaking algorithm generating unique meeting pairs
+- Built with React, REST API and PostgreSQL
+- Supports dynamic networking rounds for event participants
+
+---
+
+## Currently Learning
+
+- Advanced SwiftUI
+- iOS architecture patterns
+- Full-stack development (TypeScript backend + iOS client)
+
+---
+
+Greater Poland, Poland
